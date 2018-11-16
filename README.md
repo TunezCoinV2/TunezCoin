@@ -1,8 +1,6 @@
 TUNEZ Core integration/staging repository
 =====================================
 
-[![Build Status](https://travis-ci.org/TUNEZ-Project/TUNEZ.svg?branch=master)](https://travis-ci.org/TUNEZ-Project/TUNEZ) [![GitHub version](https://badge.fury.io/gh/TUNEZ-Project%2FTUNEZ.svg)](https://badge.fury.io/gh/TUNEZ-Project%2FTUNEZ)
-
 TUNEZ is a cutting edge cryptocurrency, with many features not available in most other cryptocurrencies.
 - Anonymized transactions using the [_Zerocoin Protocol_](http://www.pivx.org/zpiv).
 - Fast transactions featuring guaranteed zero confirmation transactions, we call it _SwiftX_.
@@ -20,37 +18,20 @@ TUNEZ is a cutting edge cryptocurrency, with many features not available in most
 
 TunezNG is an open source, peer-to-peer, energy-saving, community driven, decentralized and modern PoS 3.0 Masternode-Cryptocurrency. TunezNG has active wallet development and brings new features and active community involvement.
 
-### Official ANN on Bitcointalk: 
 
-https://bitcointalk.org/index.php?topic=2141880.0
+♻️ Twitter: https://twitter.com/Tunezwallet
 
-### Roadmap 2018: ![Roadmap 2018](https://i.imgur.com/geB6rVu.jpg) 
+♻️ Youtube: https://www.youtube.com/channel/UCLVxEwLZj-JFYRS2LvuviQ
 
-### Blockchain Explorer:
+♻️ Facebook: https://web.facebook.com/TunezWallet/
 
-https://chainz.cryptoid.info/tunez/#
+♻️ Instagram: https://instagram.com/tunezproject
 
-http://www.presstab.pw/phpexplorer/TUNEZ/index.php
+♻️  Bitcointalk Ann: https://bitcointalk.org/index.php?topic=5057536.0
 
-### Social media information: 
+♻️ Instagram: https://instagram.com/tunezproject
 
-Twitter: https://twitter.com/TunezCoinNG
-
-Facebook: https://www.facebook.com/Tunezcoin/
-
-Reddit: https://www.reddit.com/r/TunezcoinX/
-
-Discord Community: https://discord.gg/pRbDzPd
-
-Telegram Community: https://t.me/tunezcoin
-
-Forums: https://forum.tunezng.io/
-
-
-Terms of Service:
-https://tunezng.io/2018/01/tunez-terms-of-service-tos/
 TunezNG software is an experimental software. There is no guarantee given here.
 Use it at your own risk and please do your due diligence when investing.
 
 ### TunezNG – Extremely resource friendly | Lightning fast | Stealth Anonymous 
-![](https://i.imgur.com/NnR0Y18.png) 
