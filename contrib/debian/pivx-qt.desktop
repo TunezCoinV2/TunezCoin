@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=TUNEZ
+Comment=TUNEZ P2P Cryptocurrency
+Comment[fr]=TUNEZ, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=TUNEZ, eşten eşe kriptografik sanal para birimi
+Exec=tunez-qt %u
+Terminal=false
+Type=Application
+Icon=tunez128
+MimeType=x-scheme-handler/tunez;
+Categories=Office;Finance;

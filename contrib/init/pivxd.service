@@ -1,0 +1,26 @@
+[Unit]
+Description=TUNEZ's distributed currency daemon
+After=network.target
+
+[Service]
+User=tunez
+Group=tunez
+
+Type=forking
+PIDFile=/var/lib/tunezd/tunezd.pid
+
+ExecStart=/usr/bin/tunezd -daemon -pid=/var/lib/tunezd/tunezd.pid \
+          -conf=/etc/tunez/tunez.conf -datadir=/var/lib/tunezd
+
+ExecStop=-/usr/bin/tunez-cli -conf=/etc/tunez/tunez.conf \
+         -datadir=/var/lib/tunezd stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target
